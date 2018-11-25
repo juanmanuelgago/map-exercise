@@ -1,8 +1,10 @@
 # Map
 
 <div align="center"> 
-    <strong>A super simply map, purely developed with HTML, CSS, <a href="https://www.javascript.com/">JavaScript</a>, and <a href="https://nodejs.org/en/">Node.js</a>, using <a href="https://leafletjs.com/">Leaflet.js</a>library.</strong>.
+    <strong>A super simply map, purely developed with HTML, CSS, <a href="https://www.javascript.com/">JavaScript</a>, and <a href="https://nodejs.org/en/">Node.js</a>, using <a href="https://leafletjs.com/">Leaflet.js</a> library.</strong>.
 </div>
+
+<br />
 
 The map shows the different beaches in the southeastern part of Uruguay.
 

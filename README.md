@@ -1,7 +1,7 @@
 # Map
 
 <div align="center"> 
-    <strong>A super simply map, purely developed with HTML, CSS, <a href="https://www.javascript.com/">JavaScript</a>, and <a href="https://nodejs.org/en/">Node.js</a>, using <a href="https://leafletjs.com/">Leaflet.js</a> library.</strong>.
+    <strong>A super simply map, purely developed with HTML, CSS, <a href="https://www.javascript.com/">JavaScript</a>, and <a href="https://nodejs.org/en/">Node.js</a>, using <a href="https://leafletjs.com/">Leaflet.js</a> library.</strong>
 </div>
 
 <br />
@@ -44,4 +44,4 @@ or
 node server.js
 ```
 
-After putting the server to work, go to [localhost](localhost:3000) address on your favourite browser., on port 3000.
+After putting the server to work, go to [localhost](http://localhost:3000) address on your favourite browser., on port 3000.

@@ -6,7 +6,9 @@
 
 <br />
 
-The map shows the different beaches in the southeastern part of Uruguay.
+<div align="center">
+    The map shows the different beaches in the southeastern part of Uruguay.
+</div>
 
 ## Install
 

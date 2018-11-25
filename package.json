@@ -1,0 +1,19 @@
+{
+  "name": "map_exercise",
+  "version": "1.0.0",
+  "description": "Map with Leaflet.js",
+  "main": "server.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "jade": "^1.11.0",
+    "path": "^0.12.7"
+  }
+}

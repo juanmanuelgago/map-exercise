@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>Map Exercise</title>
+    <link rel="stylesheet" href="/lib/leaflet/leaflet.css" />
+    <script src="/lib/leaflet/leaflet.js"></script>
+    <link rel="stylesheet" type="text/css" href="/styles/index.css" />
+  </head>
+
+  <body>
+    <div class="general-information">
+      <h4>PLAYAS</h4>
+      <h5>Cant. de Playas en zona sureste por departamento.</h6>
+      <span class="departments">Montevideo: <strong><p id="montevideo"></p></strong></span><br />
+      <span class="departments">Canelones: <strong><p id="canelones"></p></strong></span><br />
+      <span class="departments">Maldonado: <strong><p id="maldonado"></p></strong></span><br />
+      <span class="departments">Rocha: <strong><p id="rocha"></p></strong></span><br />
+    </div>
+    <script src="https://api.tiles.mapbox.com/mapbox.js/plugins/leaflet-omnivore/v0.3.1/leaflet-omnivore.min.js"></script>
+    <div id="map"></div>
+  </body>
+  <script src="/javascript/map.js"></script>
+</html>

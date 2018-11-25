@@ -1,0 +1,52 @@
+body {
+  margin: 0;
+}
+
+#map {
+  height: 100vh;
+  width: 100vw;
+  padding: 0px;
+  margin: 0;
+}
+
+.leaflet-popup-content-wrapper {
+  background-color: #dadada;
+}
+
+.popup {
+  font-size: 20px;
+}
+
+.general-information {
+  padding: 15px;
+  top: 15px;
+  right: 10px;
+  height: 160px;
+  width: 200px;
+  position: absolute;
+  background-color: #dadada;
+  z-index: 1000;
+  border: 1px solid #dadada;
+  opacity: 0.5;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+
+h4,
+h5 {
+  margin: 10px 0px;
+}
+
+.departments {
+  color: #125bcb;
+  margin-bottom: 15px;
+}
+
+p {
+  display: inline;
+}
+
+svg path.leaflet-interactive {
+  stroke: #27c800;
+  fill: #adff99;
+}

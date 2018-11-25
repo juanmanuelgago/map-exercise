@@ -1,0 +1,1673 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="beaches" id="beaches">
+	<SimpleField name="gid" type="int"></SimpleField>
+	<SimpleField name="depto" type="string"></SimpleField>
+	<SimpleField name="nombre" type="string"></SimpleField>
+	<SimpleField name="id" type="int"></SimpleField>
+	<SimpleField name="popup" type="string"></SimpleField>
+</Schema>
+<Folder><name>beaches</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">1</SimpleData>
+		<SimpleData name="depto">ROCHA</SimpleData>
+		<SimpleData name="nombre">Barra del Chuy</SimpleData>
+		<SimpleData name="id">1</SimpleData>
+		<SimpleData name="popup">Barra del Chuy</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-53.3814995906673,-33.753079989281</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">2</SimpleData>
+		<SimpleData name="depto">ROCHA</SimpleData>
+		<SimpleData name="nombre">Samuel</SimpleData>
+		<SimpleData name="id">2</SimpleData>
+		<SimpleData name="popup">Samuel</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-53.3914387400323,-33.761612323295</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">3</SimpleData>
+		<SimpleData name="depto">ROCHA</SimpleData>
+		<SimpleData name="nombre">Puimayen</SimpleData>
+		<SimpleData name="id">3</SimpleData>
+		<SimpleData name="popup">Puimayen</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-53.410954943406,-33.7789828056826</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">4</SimpleData>
+		<SimpleData name="depto">ROCHA</SimpleData>
+		<SimpleData name="nombre">Yodosal</SimpleData>
+		<SimpleData name="id">4</SimpleData>
+		<SimpleData name="popup">Yodosal</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-53.4279135603893,-33.7945286023471</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">5</SimpleData>
+		<SimpleData name="depto">ROCHA</SimpleData>
+		<SimpleData name="nombre">Atalaya</SimpleData>
+		<SimpleData name="id">5</SimpleData>
+		<SimpleData name="popup">Atalaya</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-53.468611591382,-33.83715436925</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">6</SimpleData>
+		<SimpleData name="depto">ROCHA</SimpleData>
+		<SimpleData name="nombre">Playa del Este</SimpleData>
+		<SimpleData name="id">6</SimpleData>
+		<SimpleData name="popup">Playa del Este</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-53.4398542689417,-33.8069766317184</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">7</SimpleData>
+		<SimpleData name="depto">ROCHA</SimpleData>
+		<SimpleData name="nombre">Playa La Coronilla</SimpleData>
+		<SimpleData name="id">7</SimpleData>
+		<SimpleData name="popup">Playa La Coronilla</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-53.506699194377,-33.8965394470604</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">8</SimpleData>
+		<SimpleData name="depto">ROCHA</SimpleData>
+		<SimpleData name="nombre">Playa de la Moza</SimpleData>
+		<SimpleData name="id">8</SimpleData>
+		<SimpleData name="popup">Playa de la Moza</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-53.5295997639145,-33.9709516590063</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">9</SimpleData>
+		<SimpleData name="depto">ROCHA</SimpleData>
+		<SimpleData name="nombre">Playa de las Achiras</SimpleData>
+		<SimpleData name="id">9</SimpleData>
+		<SimpleData name="popup">Playa de las Achiras</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-53.5310485844883,-33.9803578697642</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">10</SimpleData>
+		<SimpleData name="depto">ROCHA</SimpleData>
+		<SimpleData name="nombre">Playa del Barco</SimpleData>
+		<SimpleData name="id">10</SimpleData>
+		<SimpleData name="popup">Playa del Barco</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-53.533205323585,-33.9917934389053</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">11</SimpleData>
+		<SimpleData name="depto">ROCHA</SimpleData>
+		<SimpleData name="nombre">Playa Grande</SimpleData>
+		<SimpleData name="id">11</SimpleData>
+		<SimpleData name="popup">Playa Grande</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-53.5371832950585,-34.0139225447266</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">12</SimpleData>
+		<SimpleData name="depto">ROCHA</SimpleData>
+		<SimpleData name="nombre">Playa de los Botes o de los Pescadores</SimpleData>
+		<SimpleData name="id">12</SimpleData>
+		<SimpleData name="popup">Playa de los Botes o de los Pescadores</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-53.5380144925621,-34.0440632202998</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">13</SimpleData>
+		<SimpleData name="depto">ROCHA</SimpleData>
+		<SimpleData name="nombre">Playa del Rivero</SimpleData>
+		<SimpleData name="id">13</SimpleData>
+		<SimpleData name="popup">Playa del Rivero</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-53.5382646767645,-34.038378891142</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">14</SimpleData>
+		<SimpleData name="depto">ROCHA</SimpleData>
+		<SimpleData name="nombre">Playa de la Viuda</SimpleData>
+		<SimpleData name="id">14</SimpleData>
+		<SimpleData name="popup">Playa de la Viuda</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-53.5412333399204,-34.0505886610328</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">15</SimpleData>
+		<SimpleData name="depto">ROCHA</SimpleData>
+		<SimpleData name="nombre">Playa California</SimpleData>
+		<SimpleData name="id">15</SimpleData>
+		<SimpleData name="popup">Playa California</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-53.7495126263558,-34.2371305940116</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">16</SimpleData>
+		<SimpleData name="depto">ROCHA</SimpleData>
+		<SimpleData name="nombre">Playa de los Moros</SimpleData>
+		<SimpleData name="id">16</SimpleData>
+		<SimpleData name="popup">Playa de los Moros</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-53.72608594598,-34.2099628560014</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">17</SimpleData>
+		<SimpleData name="depto">ROCHA</SimpleData>
+		<SimpleData name="nombre">Playa Monte Carlo</SimpleData>
+		<SimpleData name="id">17</SimpleData>
+		<SimpleData name="popup">Playa Monte Carlo</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-53.7612746955472,-34.2529487398535</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">18</SimpleData>
+		<SimpleData name="depto">ROCHA</SimpleData>
+		<SimpleData name="nombre">Playa de la Calavera</SimpleData>
+		<SimpleData name="id">18</SimpleData>
+		<SimpleData name="popup">Playa de la Calavera</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-53.7804469038889,-34.3927434357126</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">19</SimpleData>
+		<SimpleData name="depto">ROCHA</SimpleData>
+		<SimpleData name="nombre">Costa de Oro</SimpleData>
+		<SimpleData name="id">19</SimpleData>
+		<SimpleData name="popup">Costa de Oro</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-53.849495785834,-34.4259497696469</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">20</SimpleData>
+		<SimpleData name="depto">ROCHA</SimpleData>
+		<SimpleData name="nombre">Brisas del Polonio</SimpleData>
+		<SimpleData name="id">20</SimpleData>
+		<SimpleData name="popup">Brisas del Polonio</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-53.8559607208379,-34.4286622973375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">21</SimpleData>
+		<SimpleData name="depto">ROCHA</SimpleData>
+		<SimpleData name="nombre">Perla de Rocha</SimpleData>
+		<SimpleData name="id">21</SimpleData>
+		<SimpleData name="popup">Perla de Rocha</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-53.8647730594119,-34.4326668589246</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">22</SimpleData>
+		<SimpleData name="depto">ROCHA</SimpleData>
+		<SimpleData name="nombre">Los Palmares</SimpleData>
+		<SimpleData name="id">22</SimpleData>
+		<SimpleData name="popup">Los Palmares</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-53.8846369746813,-34.4425579815075</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">23</SimpleData>
+		<SimpleData name="depto">ROCHA</SimpleData>
+		<SimpleData name="nombre">Costa Rica</SimpleData>
+		<SimpleData name="id">23</SimpleData>
+		<SimpleData name="popup">Costa Rica</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-53.8945006383546,-34.4473539823709</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">24</SimpleData>
+		<SimpleData name="depto">ROCHA</SimpleData>
+		<SimpleData name="nombre">Ocean�a</SimpleData>
+		<SimpleData name="id">24</SimpleData>
+		<SimpleData name="popup">Ocean�a</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-53.8983815665821,-34.4493271274425</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">25</SimpleData>
+		<SimpleData name="depto">ROCHA</SimpleData>
+		<SimpleData name="nombre">Pinares</SimpleData>
+		<SimpleData name="id">25</SimpleData>
+		<SimpleData name="popup">Pinares</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-53.9021677842078,-34.4512780567498</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">26</SimpleData>
+		<SimpleData name="depto">ROCHA</SimpleData>
+		<SimpleData name="nombre">San Remo</SimpleData>
+		<SimpleData name="id">26</SimpleData>
+		<SimpleData name="popup">San Remo</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-53.9091164002901,-34.4546410748186</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">27</SimpleData>
+		<SimpleData name="depto">ROCHA</SimpleData>
+		<SimpleData name="nombre">La Florida</SimpleData>
+		<SimpleData name="id">27</SimpleData>
+		<SimpleData name="popup">La Florida</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-53.9309513984408,-34.4660147758824</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">28</SimpleData>
+		<SimpleData name="depto">ROCHA</SimpleData>
+		<SimpleData name="nombre">Atl�ntica</SimpleData>
+		<SimpleData name="id">28</SimpleData>
+		<SimpleData name="popup">Atl�ntica</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-53.9521871976598,-34.4769354151792</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">29</SimpleData>
+		<SimpleData name="depto">ROCHA</SimpleData>
+		<SimpleData name="nombre">Puerta del Sol</SimpleData>
+		<SimpleData name="id">29</SimpleData>
+		<SimpleData name="popup">Puerta del Sol</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-53.9719275218466,-34.4875402726397</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">30</SimpleData>
+		<SimpleData name="depto">ROCHA</SimpleData>
+		<SimpleData name="nombre">Valizas</SimpleData>
+		<SimpleData name="id">30</SimpleData>
+		<SimpleData name="popup">Valizas</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-53.9808218419493,-34.4924021755652</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">31</SimpleData>
+		<SimpleData name="depto">ROCHA</SimpleData>
+		<SimpleData name="nombre">San Bernardo de Rocha</SimpleData>
+		<SimpleData name="id">31</SimpleData>
+		<SimpleData name="popup">San Bernardo de Rocha</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-53.9890587485909,-34.4967172363245</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">32</SimpleData>
+		<SimpleData name="depto">ROCHA</SimpleData>
+		<SimpleData name="nombre">San Bernardo</SimpleData>
+		<SimpleData name="id">32</SimpleData>
+		<SimpleData name="popup">San Bernardo</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-53.998057535387,-34.5016568194722</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">33</SimpleData>
+		<SimpleData name="depto">ROCHA</SimpleData>
+		<SimpleData name="nombre">Las Sirenas</SimpleData>
+		<SimpleData name="id">33</SimpleData>
+		<SimpleData name="popup">Las Sirenas</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-53.6459837004258,-34.1353660970022</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">34</SimpleData>
+		<SimpleData name="depto">ROCHA</SimpleData>
+		<SimpleData name="nombre">La Esmeralda</SimpleData>
+		<SimpleData name="id">34</SimpleData>
+		<SimpleData name="popup">La Esmeralda</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-53.6713029657751,-34.1559451113846</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">35</SimpleData>
+		<SimpleData name="depto">ROCHA</SimpleData>
+		<SimpleData name="nombre">Aguas Dulces</SimpleData>
+		<SimpleData name="id">35</SimpleData>
+		<SimpleData name="popup">Aguas Dulces</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-53.7764211925628,-34.2744989233241</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">36</SimpleData>
+		<SimpleData name="depto">ROCHA</SimpleData>
+		<SimpleData name="nombre">Barra de Valizas</SimpleData>
+		<SimpleData name="id">36</SimpleData>
+		<SimpleData name="popup">Barra de Valizas</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-53.7847966194688,-34.3405250204093</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">37</SimpleData>
+		<SimpleData name="depto">ROCHA</SimpleData>
+		<SimpleData name="nombre">Brisas del Este</SimpleData>
+		<SimpleData name="id">37</SimpleData>
+		<SimpleData name="popup">Brisas del Este</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-54.0144725176783,-34.510681875399</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">38</SimpleData>
+		<SimpleData name="depto">ROCHA</SimpleData>
+		<SimpleData name="nombre">San Francisco</SimpleData>
+		<SimpleData name="id">38</SimpleData>
+		<SimpleData name="popup">San Francisco</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-54.0214726496827,-34.5150749980002</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">39</SimpleData>
+		<SimpleData name="depto">ROCHA</SimpleData>
+		<SimpleData name="nombre">El Palenque</SimpleData>
+		<SimpleData name="id">39</SimpleData>
+		<SimpleData name="popup">El Palenque</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-54.0380441213163,-34.5252976734875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">40</SimpleData>
+		<SimpleData name="depto">ROCHA</SimpleData>
+		<SimpleData name="nombre">Santa Marta del Pinar</SimpleData>
+		<SimpleData name="id">40</SimpleData>
+		<SimpleData name="popup">Santa Marta del Pinar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-54.0516529475386,-34.5339519560287</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">41</SimpleData>
+		<SimpleData name="depto">ROCHA</SimpleData>
+		<SimpleData name="nombre">Mar del Plata</SimpleData>
+		<SimpleData name="id">41</SimpleData>
+		<SimpleData name="popup">Mar del Plata</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-54.0618379677769,-34.5403330085688</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">42</SimpleData>
+		<SimpleData name="depto">ROCHA</SimpleData>
+		<SimpleData name="nombre">San Antonio</SimpleData>
+		<SimpleData name="id">42</SimpleData>
+		<SimpleData name="popup">San Antonio</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-54.0720404377144,-34.5472436294555</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">43</SimpleData>
+		<SimpleData name="depto">ROCHA</SimpleData>
+		<SimpleData name="nombre">Green Hall</SimpleData>
+		<SimpleData name="id">43</SimpleData>
+		<SimpleData name="popup">Green Hall</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-54.0823895617797,-34.5542435371198</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">44</SimpleData>
+		<SimpleData name="depto">ROCHA</SimpleData>
+		<SimpleData name="nombre">Santa Isabel</SimpleData>
+		<SimpleData name="id">44</SimpleData>
+		<SimpleData name="popup">Santa Isabel</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-54.0966306684602,-34.5648498849164</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">45</SimpleData>
+		<SimpleData name="depto">ROCHA</SimpleData>
+		<SimpleData name="nombre">Punta Rubia</SimpleData>
+		<SimpleData name="id">45</SimpleData>
+		<SimpleData name="popup">Punta Rubia</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-54.1176968200659,-34.5828202855817</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">46</SimpleData>
+		<SimpleData name="depto">ROCHA</SimpleData>
+		<SimpleData name="nombre">Desplayado</SimpleData>
+		<SimpleData name="id">46</SimpleData>
+		<SimpleData name="popup">Desplayado</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-54.1208400321487,-34.5887496286613</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">47</SimpleData>
+		<SimpleData name="depto">ROCHA</SimpleData>
+		<SimpleData name="nombre">Playa del Barco</SimpleData>
+		<SimpleData name="id">47</SimpleData>
+		<SimpleData name="popup">Playa del Barco</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-54.1227489100428,-34.5947035829462</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">48</SimpleData>
+		<SimpleData name="depto">ROCHA</SimpleData>
+		<SimpleData name="nombre">Diamante de la Pedrera</SimpleData>
+		<SimpleData name="id">48</SimpleData>
+		<SimpleData name="popup">Diamante de la Pedrera</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-54.1363817992108,-34.6062693801789</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">49</SimpleData>
+		<SimpleData name="depto">ROCHA</SimpleData>
+		<SimpleData name="nombre">Arachania</SimpleData>
+		<SimpleData name="id">49</SimpleData>
+		<SimpleData name="popup">Arachania</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-54.1443130786099,-34.6152630242501</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">50</SimpleData>
+		<SimpleData name="depto">ROCHA</SimpleData>
+		<SimpleData name="nombre">Antoni�polis</SimpleData>
+		<SimpleData name="id">50</SimpleData>
+		<SimpleData name="popup">Antoni�polis</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-54.1465225915303,-34.6183819811601</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">51</SimpleData>
+		<SimpleData name="depto">ROCHA</SimpleData>
+		<SimpleData name="nombre">La Cuchilla</SimpleData>
+		<SimpleData name="id">51</SimpleData>
+		<SimpleData name="popup">La Cuchilla</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-54.1485740570959,-34.6221346177332</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">52</SimpleData>
+		<SimpleData name="depto">ROCHA</SimpleData>
+		<SimpleData name="nombre">Pinares de Costa Azul</SimpleData>
+		<SimpleData name="id">52</SimpleData>
+		<SimpleData name="popup">Pinares de Costa Azul</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-54.1502059501627,-34.6254890521584</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">53</SimpleData>
+		<SimpleData name="depto">ROCHA</SimpleData>
+		<SimpleData name="nombre">Costa Azul</SimpleData>
+		<SimpleData name="id">53</SimpleData>
+		<SimpleData name="popup">Costa Azul</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-54.1534784563901,-34.6346095813251</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">54</SimpleData>
+		<SimpleData name="depto">ROCHA</SimpleData>
+		<SimpleData name="nombre">Playa La Aguada</SimpleData>
+		<SimpleData name="id">54</SimpleData>
+		<SimpleData name="popup">Playa La Aguada</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-54.153509057816,-34.6447435239092</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">55</SimpleData>
+		<SimpleData name="depto">ROCHA</SimpleData>
+		<SimpleData name="nombre">Bah�a Grande</SimpleData>
+		<SimpleData name="id">55</SimpleData>
+		<SimpleData name="popup">Bah�a Grande</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-54.152340930232,-34.6578146050616</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">56</SimpleData>
+		<SimpleData name="depto">ROCHA</SimpleData>
+		<SimpleData name="nombre">La Balconada</SimpleData>
+		<SimpleData name="id">56</SimpleData>
+		<SimpleData name="popup">La Balconada</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-54.1630205472889,-34.6651519067177</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">57</SimpleData>
+		<SimpleData name="depto">ROCHA</SimpleData>
+		<SimpleData name="nombre">El Cabito</SimpleData>
+		<SimpleData name="id">57</SimpleData>
+		<SimpleData name="popup">El Cabito</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-54.1739358142023,-34.6646750005314</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">58</SimpleData>
+		<SimpleData name="depto">ROCHA</SimpleData>
+		<SimpleData name="nombre">Los Botes</SimpleData>
+		<SimpleData name="id">58</SimpleData>
+		<SimpleData name="popup">Los Botes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-54.1815406027546,-34.6620981433458</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">59</SimpleData>
+		<SimpleData name="depto">ROCHA</SimpleData>
+		<SimpleData name="nombre">Solari</SimpleData>
+		<SimpleData name="id">59</SimpleData>
+		<SimpleData name="popup">Solari</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-54.1672122917144,-34.6648637139559</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">60</SimpleData>
+		<SimpleData name="depto">ROCHA</SimpleData>
+		<SimpleData name="nombre">Rinc�n de la Laguna</SimpleData>
+		<SimpleData name="id">60</SimpleData>
+		<SimpleData name="popup">Rinc�n de la Laguna</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-54.2523292402609,-34.6753240228194</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">61</SimpleData>
+		<SimpleData name="depto">ROCHA</SimpleData>
+		<SimpleData name="nombre">Las Garzas</SimpleData>
+		<SimpleData name="id">61</SimpleData>
+		<SimpleData name="popup">Las Garzas</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-54.3231263227283,-34.7001868261042</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">62</SimpleData>
+		<SimpleData name="depto">ROCHA</SimpleData>
+		<SimpleData name="nombre">Santa Rita</SimpleData>
+		<SimpleData name="id">62</SimpleData>
+		<SimpleData name="popup">Santa Rita</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-54.4779691937784,-34.759642851056</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">63</SimpleData>
+		<SimpleData name="depto">ROCHA</SimpleData>
+		<SimpleData name="nombre">Costa Bonita</SimpleData>
+		<SimpleData name="id">63</SimpleData>
+		<SimpleData name="popup">Costa Bonita</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-54.5087157812653,-34.7737271168183</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">64</SimpleData>
+		<SimpleData name="depto">ROCHA</SimpleData>
+		<SimpleData name="nombre">El Caracol</SimpleData>
+		<SimpleData name="id">64</SimpleData>
+		<SimpleData name="popup">El Caracol</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-54.5353217009714,-34.7859812795098</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">65</SimpleData>
+		<SimpleData name="depto">ROCHA</SimpleData>
+		<SimpleData name="nombre">Playa San Sebasti�n</SimpleData>
+		<SimpleData name="id">65</SimpleData>
+		<SimpleData name="popup">Playa San Sebasti�n</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-54.5606320146755,-34.7985002402772</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">66</SimpleData>
+		<SimpleData name="depto">MALDONADO</SimpleData>
+		<SimpleData name="nombre">Playa Garz�n</SimpleData>
+		<SimpleData name="id">66</SimpleData>
+		<SimpleData name="popup">Playa Garz�n</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-54.6157443384409,-34.8248789203362</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">67</SimpleData>
+		<SimpleData name="depto">MALDONADO</SimpleData>
+		<SimpleData name="nombre">Playa Brava de Jos� Ignacio</SimpleData>
+		<SimpleData name="id">67</SimpleData>
+		<SimpleData name="popup">Playa Brava de Jos� Ignacio</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-54.6313675766749,-34.837976889621</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">68</SimpleData>
+		<SimpleData name="depto">MALDONADO</SimpleData>
+		<SimpleData name="nombre">Playa Mansa de Jos� Ignacio</SimpleData>
+		<SimpleData name="id">68</SimpleData>
+		<SimpleData name="popup">Playa Mansa de Jos� Ignacio</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-54.6459585448287,-34.8397660069708</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">69</SimpleData>
+		<SimpleData name="depto">MALDONADO</SimpleData>
+		<SimpleData name="nombre">Barra de Jos� Ignacio</SimpleData>
+		<SimpleData name="id">69</SimpleData>
+		<SimpleData name="popup">Barra de Jos� Ignacio</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-54.6768477915798,-34.8441468675419</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">70</SimpleData>
+		<SimpleData name="depto">MALDONADO</SimpleData>
+		<SimpleData name="nombre">Playa Juanita</SimpleData>
+		<SimpleData name="id">70</SimpleData>
+		<SimpleData name="popup">Playa Juanita</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-54.6639298085367,-34.8403098835755</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">71</SimpleData>
+		<SimpleData name="depto">MALDONADO</SimpleData>
+		<SimpleData name="nombre">Santa M�nica</SimpleData>
+		<SimpleData name="id">71</SimpleData>
+		<SimpleData name="popup">Santa M�nica</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-54.7144865715958,-34.8566982445919</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">72</SimpleData>
+		<SimpleData name="depto">MALDONADO</SimpleData>
+		<SimpleData name="nombre">Eden Rock</SimpleData>
+		<SimpleData name="id">72</SimpleData>
+		<SimpleData name="popup">Eden Rock</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-54.7490155597809,-34.872075546719</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">73</SimpleData>
+		<SimpleData name="depto">MALDONADO</SimpleData>
+		<SimpleData name="nombre">San Vicente</SimpleData>
+		<SimpleData name="id">73</SimpleData>
+		<SimpleData name="popup">San Vicente</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-54.7588159448895,-34.8772198677026</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">74</SimpleData>
+		<SimpleData name="depto">MALDONADO</SimpleData>
+		<SimpleData name="nombre">San Juan del Este</SimpleData>
+		<SimpleData name="id">74</SimpleData>
+		<SimpleData name="popup">San Juan del Este</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-54.766642932418,-34.8812183063096</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">75</SimpleData>
+		<SimpleData name="depto">MALDONADO</SimpleData>
+		<SimpleData name="nombre">Balneario Buenos Aires</SimpleData>
+		<SimpleData name="id">75</SimpleData>
+		<SimpleData name="popup">Balneario Buenos Aires</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-54.7902184984974,-34.893102430118</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">76</SimpleData>
+		<SimpleData name="depto">MALDONADO</SimpleData>
+		<SimpleData name="nombre">Playa Bikini</SimpleData>
+		<SimpleData name="id">76</SimpleData>
+		<SimpleData name="popup">Playa Bikini</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-54.8272566192516,-34.9074565560436</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">77</SimpleData>
+		<SimpleData name="depto">MALDONADO</SimpleData>
+		<SimpleData name="nombre">El Chorro</SimpleData>
+		<SimpleData name="id">77</SimpleData>
+		<SimpleData name="popup">El Chorro</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-54.8161077842022,-34.9055277638702</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">78</SimpleData>
+		<SimpleData name="depto">MALDONADO</SimpleData>
+		<SimpleData name="nombre">Montoya</SimpleData>
+		<SimpleData name="id">78</SimpleData>
+		<SimpleData name="popup">Montoya</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-54.8472406941984,-34.9142525308197</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">79</SimpleData>
+		<SimpleData name="depto">MALDONADO</SimpleData>
+		<SimpleData name="nombre">Playa Brava de Punta del Este</SimpleData>
+		<SimpleData name="id">79</SimpleData>
+		<SimpleData name="popup">Playa Brava de Punta del Este</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-54.9340340528405,-34.9565353293247</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">80</SimpleData>
+		<SimpleData name="depto">MALDONADO</SimpleData>
+		<SimpleData name="nombre">Playa Mansa de Punta del Este</SimpleData>
+		<SimpleData name="id">80</SimpleData>
+		<SimpleData name="popup">Playa Mansa de Punta del Este</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-54.9407384958224,-34.9522423839769</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">81</SimpleData>
+		<SimpleData name="depto">MALDONADO</SimpleData>
+		<SimpleData name="nombre">Playa San Rafael</SimpleData>
+		<SimpleData name="id">81</SimpleData>
+		<SimpleData name="popup">Playa San Rafael</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-54.9103123063617,-34.9413368000362</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">82</SimpleData>
+		<SimpleData name="depto">MALDONADO</SimpleData>
+		<SimpleData name="nombre">Playa El Emir</SimpleData>
+		<SimpleData name="id">82</SimpleData>
+		<SimpleData name="popup">Playa El Emir</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-54.9403592878351,-34.9630751167913</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">83</SimpleData>
+		<SimpleData name="depto">MALDONADO</SimpleData>
+		<SimpleData name="nombre">Playa de las Delicias</SimpleData>
+		<SimpleData name="id">83</SimpleData>
+		<SimpleData name="popup">Playa de las Delicias</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-54.9577373502218,-34.9323585932109</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">84</SimpleData>
+		<SimpleData name="depto">MALDONADO</SimpleData>
+		<SimpleData name="nombre">Solana del Mar</SimpleData>
+		<SimpleData name="id">84</SimpleData>
+		<SimpleData name="popup">Solana del Mar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-55.0533158720874,-34.8841772687669</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">85</SimpleData>
+		<SimpleData name="depto">MALDONADO</SimpleData>
+		<SimpleData name="nombre">Portezuelo</SimpleData>
+		<SimpleData name="id">85</SimpleData>
+		<SimpleData name="popup">Portezuelo</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-55.0415741814251,-34.8915423551521</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">86</SimpleData>
+		<SimpleData name="depto">MALDONADO</SimpleData>
+		<SimpleData name="nombre">Chihuahua</SimpleData>
+		<SimpleData name="id">86</SimpleData>
+		<SimpleData name="popup">Chihuahua</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-55.0832019758416,-34.8778761276129</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">87</SimpleData>
+		<SimpleData name="depto">MALDONADO</SimpleData>
+		<SimpleData name="nombre">Punta Colorada</SimpleData>
+		<SimpleData name="id">87</SimpleData>
+		<SimpleData name="popup">Punta Colorada</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-55.2470697846492,-34.9003715112363</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">88</SimpleData>
+		<SimpleData name="depto">MALDONADO</SimpleData>
+		<SimpleData name="nombre">San Francisco</SimpleData>
+		<SimpleData name="id">88</SimpleData>
+		<SimpleData name="popup">San Francisco</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-55.2736178321195,-34.8898841561993</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">89</SimpleData>
+		<SimpleData name="depto">MALDONADO</SimpleData>
+		<SimpleData name="nombre">Playa Piri�polis</SimpleData>
+		<SimpleData name="id">89</SimpleData>
+		<SimpleData name="popup">Playa Piri�polis</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-55.2797341720845,-34.8643868124822</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">90</SimpleData>
+		<SimpleData name="depto">MALDONADO</SimpleData>
+		<SimpleData name="nombre">Playa Hermosa</SimpleData>
+		<SimpleData name="id">90</SimpleData>
+		<SimpleData name="popup">Playa Hermosa</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-55.3023919803833,-34.8439092081412</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">91</SimpleData>
+		<SimpleData name="depto">MALDONADO</SimpleData>
+		<SimpleData name="nombre">Playa Verde</SimpleData>
+		<SimpleData name="id">91</SimpleData>
+		<SimpleData name="popup">Playa Verde</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-55.3124904438088,-34.8339875117493</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">92</SimpleData>
+		<SimpleData name="depto">MALDONADO</SimpleData>
+		<SimpleData name="nombre">Las Flores</SimpleData>
+		<SimpleData name="id">92</SimpleData>
+		<SimpleData name="popup">Las Flores</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-55.3389104358955,-34.8114330850211</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">93</SimpleData>
+		<SimpleData name="depto">MALDONADO</SimpleData>
+		<SimpleData name="nombre">Bella Vista</SimpleData>
+		<SimpleData name="id">93</SimpleData>
+		<SimpleData name="popup">Bella Vista</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-55.3680527308104,-34.8029354680124</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">94</SimpleData>
+		<SimpleData name="depto">MALDONADO</SimpleData>
+		<SimpleData name="nombre">Playa Grande</SimpleData>
+		<SimpleData name="id">94</SimpleData>
+		<SimpleData name="popup">Playa Grande</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-55.3011253782633,-34.8554417554342</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">95</SimpleData>
+		<SimpleData name="depto">MALDONADO</SimpleData>
+		<SimpleData name="nombre">La Falda</SimpleData>
+		<SimpleData name="id">95</SimpleData>
+		<SimpleData name="popup">La Falda</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-55.3192112313872,-34.8233594034228</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">96</SimpleData>
+		<SimpleData name="depto">CANELONES</SimpleData>
+		<SimpleData name="nombre">Jaureguiberry</SimpleData>
+		<SimpleData name="id">96</SimpleData>
+		<SimpleData name="popup">Jaureguiberry</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-55.4106853759518,-34.7902538412701</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">97</SimpleData>
+		<SimpleData name="depto">CANELONES</SimpleData>
+		<SimpleData name="nombre">Argentino</SimpleData>
+		<SimpleData name="id">97</SimpleData>
+		<SimpleData name="popup">Argentino</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-55.4465645226657,-34.7934936127268</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">98</SimpleData>
+		<SimpleData name="depto">CANELONES</SimpleData>
+		<SimpleData name="nombre">Sierra del Mar</SimpleData>
+		<SimpleData name="id">98</SimpleData>
+		<SimpleData name="popup">Sierra del Mar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-55.4567118291488,-34.7947511100974</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">99</SimpleData>
+		<SimpleData name="depto">CANELONES</SimpleData>
+		<SimpleData name="nombre">Santa Ana</SimpleData>
+		<SimpleData name="id">99</SimpleData>
+		<SimpleData name="popup">Santa Ana</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-55.4651782166198,-34.7956533753504</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">100</SimpleData>
+		<SimpleData name="depto">CANELONES</SimpleData>
+		<SimpleData name="nombre">Cuchilla Alta</SimpleData>
+		<SimpleData name="id">100</SimpleData>
+		<SimpleData name="popup">Cuchilla Alta</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-55.4978325278961,-34.7974662962488</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">101</SimpleData>
+		<SimpleData name="depto">CANELONES</SimpleData>
+		<SimpleData name="nombre">Biarritz</SimpleData>
+		<SimpleData name="id">101</SimpleData>
+		<SimpleData name="popup">Biarritz</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-55.5194167490799,-34.7971990158775</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">102</SimpleData>
+		<SimpleData name="depto">CANELONES</SimpleData>
+		<SimpleData name="nombre">Santa Luc�a del Este</SimpleData>
+		<SimpleData name="id">102</SimpleData>
+		<SimpleData name="popup">Santa Luc�a del Este</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-55.5407903160259,-34.7928615286884</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">103</SimpleData>
+		<SimpleData name="depto">CANELONES</SimpleData>
+		<SimpleData name="nombre">Araminda</SimpleData>
+		<SimpleData name="id">103</SimpleData>
+		<SimpleData name="popup">Araminda</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-55.5562452550702,-34.7893622701802</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">104</SimpleData>
+		<SimpleData name="depto">CANELONES</SimpleData>
+		<SimpleData name="nombre">La Tuna</SimpleData>
+		<SimpleData name="id">104</SimpleData>
+		<SimpleData name="popup">La Tuna</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-55.5668887229652,-34.7854901906453</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">105</SimpleData>
+		<SimpleData name="depto">CANELONES</SimpleData>
+		<SimpleData name="nombre">Los Titanes</SimpleData>
+		<SimpleData name="id">105</SimpleData>
+		<SimpleData name="popup">Los Titanes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-55.5822652088048,-34.780363178552</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">106</SimpleData>
+		<SimpleData name="depto">CANELONES</SimpleData>
+		<SimpleData name="nombre">San Luis</SimpleData>
+		<SimpleData name="id">106</SimpleData>
+		<SimpleData name="popup">San Luis</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-55.5915077789941,-34.775998824455</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">107</SimpleData>
+		<SimpleData name="depto">CANELONES</SimpleData>
+		<SimpleData name="nombre">Guaz� Vir�</SimpleData>
+		<SimpleData name="id">107</SimpleData>
+		<SimpleData name="popup">Guaz� Vir�</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-55.6134832737739,-34.7728185455168</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">108</SimpleData>
+		<SimpleData name="depto">CANELONES</SimpleData>
+		<SimpleData name="nombre">Guaz� Vir� Nuevo</SimpleData>
+		<SimpleData name="id">108</SimpleData>
+		<SimpleData name="popup">Guaz� Vir� Nuevo</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-55.6366826228301,-34.7761986805267</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">109</SimpleData>
+		<SimpleData name="depto">CANELONES</SimpleData>
+		<SimpleData name="nombre">Bello Horizonte</SimpleData>
+		<SimpleData name="id">109</SimpleData>
+		<SimpleData name="popup">Bello Horizonte</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-55.6424784891746,-34.7776937486378</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">110</SimpleData>
+		<SimpleData name="depto">CANELONES</SimpleData>
+		<SimpleData name="nombre">Costa Azul</SimpleData>
+		<SimpleData name="id">110</SimpleData>
+		<SimpleData name="popup">Costa Azul</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-55.6612284753252,-34.7697323029526</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">111</SimpleData>
+		<SimpleData name="depto">CANELONES</SimpleData>
+		<SimpleData name="nombre">La Floresta</SimpleData>
+		<SimpleData name="id">111</SimpleData>
+		<SimpleData name="popup">La Floresta</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-55.676980134031,-34.7628836580492</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">112</SimpleData>
+		<SimpleData name="depto">CANELONES</SimpleData>
+		<SimpleData name="nombre">Parque del Plata</SimpleData>
+		<SimpleData name="id">112</SimpleData>
+		<SimpleData name="popup">Parque del Plata</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-55.7139056065093,-34.7673549790691</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">113</SimpleData>
+		<SimpleData name="depto">CANELONES</SimpleData>
+		<SimpleData name="nombre">Las Toscas</SimpleData>
+		<SimpleData name="id">113</SimpleData>
+		<SimpleData name="popup">Las Toscas</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-55.7337203494817,-34.7737506832054</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">114</SimpleData>
+		<SimpleData name="depto">CANELONES</SimpleData>
+		<SimpleData name="nombre">Playa Brava de Atl�ntida</SimpleData>
+		<SimpleData name="id">114</SimpleData>
+		<SimpleData name="popup">Playa Brava de Atl�ntida</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-55.757432588138,-34.7806443767532</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">115</SimpleData>
+		<SimpleData name="depto">CANELONES</SimpleData>
+		<SimpleData name="nombre">Playa Mansa de Atl�ntida</SimpleData>
+		<SimpleData name="id">115</SimpleData>
+		<SimpleData name="popup">Playa Mansa de Atl�ntida</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-55.7630845827091,-34.7770922897098</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">116</SimpleData>
+		<SimpleData name="depto">CANELONES</SimpleData>
+		<SimpleData name="nombre">Villa Argentina</SimpleData>
+		<SimpleData name="id">116</SimpleData>
+		<SimpleData name="popup">Villa Argentina</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-55.7760635517053,-34.7717742234229</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">117</SimpleData>
+		<SimpleData name="depto">CANELONES</SimpleData>
+		<SimpleData name="nombre">Fort�n de Santa Rosa</SimpleData>
+		<SimpleData name="id">117</SimpleData>
+		<SimpleData name="popup">Fort�n de Santa Rosa</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-55.8028775653227,-34.7748542344899</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">118</SimpleData>
+		<SimpleData name="depto">CANELONES</SimpleData>
+		<SimpleData name="nombre">Marindia</SimpleData>
+		<SimpleData name="id">118</SimpleData>
+		<SimpleData name="popup">Marindia</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-55.8215966717023,-34.7803978937168</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">119</SimpleData>
+		<SimpleData name="depto">CANELONES</SimpleData>
+		<SimpleData name="nombre">Salinas</SimpleData>
+		<SimpleData name="id">119</SimpleData>
+		<SimpleData name="popup">Salinas</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-55.8360857000437,-34.7856573879253</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">120</SimpleData>
+		<SimpleData name="depto">CANELONES</SimpleData>
+		<SimpleData name="nombre">Pine Park</SimpleData>
+		<SimpleData name="id">120</SimpleData>
+		<SimpleData name="popup">Pine Park</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-55.8465862140229,-34.7902732679225</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">121</SimpleData>
+		<SimpleData name="depto">CANELONES</SimpleData>
+		<SimpleData name="nombre">Pinamar</SimpleData>
+		<SimpleData name="id">121</SimpleData>
+		<SimpleData name="popup">Pinamar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-55.8525683657862,-34.7935892522679</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">122</SimpleData>
+		<SimpleData name="depto">CANELONES</SimpleData>
+		<SimpleData name="nombre">El Pinar</SimpleData>
+		<SimpleData name="id">122</SimpleData>
+		<SimpleData name="popup">El Pinar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-55.8858639367509,-34.8018396485742</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">123</SimpleData>
+		<SimpleData name="depto">CANELONES</SimpleData>
+		<SimpleData name="nombre">Medanos de Solymar</SimpleData>
+		<SimpleData name="id">123</SimpleData>
+		<SimpleData name="popup">Medanos de Solymar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-55.9167420262041,-34.8167003737917</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">124</SimpleData>
+		<SimpleData name="depto">CANELONES</SimpleData>
+		<SimpleData name="nombre">Lomas de Solymar</SimpleData>
+		<SimpleData name="id">124</SimpleData>
+		<SimpleData name="popup">Lomas de Solymar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-55.9268683062525,-34.8221266408246</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">125</SimpleData>
+		<SimpleData name="depto">CANELONES</SimpleData>
+		<SimpleData name="nombre">Parque de Solymar</SimpleData>
+		<SimpleData name="id">125</SimpleData>
+		<SimpleData name="popup">Parque de Solymar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-55.9418245047407,-34.8305079788836</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">126</SimpleData>
+		<SimpleData name="depto">CANELONES</SimpleData>
+		<SimpleData name="nombre">Solymar</SimpleData>
+		<SimpleData name="id">126</SimpleData>
+		<SimpleData name="popup">Solymar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-55.9531016654636,-34.8366288839674</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">127</SimpleData>
+		<SimpleData name="depto">CANELONES</SimpleData>
+		<SimpleData name="nombre">El Bosque</SimpleData>
+		<SimpleData name="id">127</SimpleData>
+		<SimpleData name="popup">El Bosque</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-55.9600699801829,-34.8408140088653</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">128</SimpleData>
+		<SimpleData name="depto">CANELONES</SimpleData>
+		<SimpleData name="nombre">Lagomar</SimpleData>
+		<SimpleData name="id">128</SimpleData>
+		<SimpleData name="popup">Lagomar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-55.9705875546593,-34.8470461344538</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">129</SimpleData>
+		<SimpleData name="depto">CANELONES</SimpleData>
+		<SimpleData name="nombre">San Jos� de Carrasco</SimpleData>
+		<SimpleData name="id">129</SimpleData>
+		<SimpleData name="popup">San Jos� de Carrasco</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-55.9810544092836,-34.8531179049081</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">130</SimpleData>
+		<SimpleData name="depto">CANELONES</SimpleData>
+		<SimpleData name="nombre">Shangril�</SimpleData>
+		<SimpleData name="id">130</SimpleData>
+		<SimpleData name="popup">Shangril�</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-55.9882014937146,-34.8573347282277</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">131</SimpleData>
+		<SimpleData name="depto">CANELONES</SimpleData>
+		<SimpleData name="nombre">Parque de Carrasco</SimpleData>
+		<SimpleData name="id">131</SimpleData>
+		<SimpleData name="popup">Parque de Carrasco</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-55.9954503587592,-34.8619594200873</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">132</SimpleData>
+		<SimpleData name="depto">MONTEVIDEO</SimpleData>
+		<SimpleData name="nombre">Playa Miramar</SimpleData>
+		<SimpleData name="id">132</SimpleData>
+		<SimpleData name="popup">Playa Miramar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-56.0414025993237,-34.8863058766266</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">133</SimpleData>
+		<SimpleData name="depto">MONTEVIDEO</SimpleData>
+		<SimpleData name="nombre">Playa Carrasco</SimpleData>
+		<SimpleData name="id">133</SimpleData>
+		<SimpleData name="popup">Playa Carrasco</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-56.0541613777281,-34.8920394008475</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">134</SimpleData>
+		<SimpleData name="depto">MONTEVIDEO</SimpleData>
+		<SimpleData name="nombre">Playa Carlos Gardel</SimpleData>
+		<SimpleData name="id">134</SimpleData>
+		<SimpleData name="popup">Playa Carlos Gardel</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-56.0699222126114,-34.8997125578951</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">135</SimpleData>
+		<SimpleData name="depto">MONTEVIDEO</SimpleData>
+		<SimpleData name="nombre">Playa de los Ingleses</SimpleData>
+		<SimpleData name="id">135</SimpleData>
+		<SimpleData name="popup">Playa de los Ingleses</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-56.0853927044475,-34.8959789261356</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">136</SimpleData>
+		<SimpleData name="depto">MONTEVIDEO</SimpleData>
+		<SimpleData name="nombre">Playa Honda</SimpleData>
+		<SimpleData name="id">136</SimpleData>
+		<SimpleData name="popup">Playa Honda</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-56.0932665005495,-34.8961761255362</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">137</SimpleData>
+		<SimpleData name="depto">MONTEVIDEO</SimpleData>
+		<SimpleData name="nombre">Playa Malv�n</SimpleData>
+		<SimpleData name="id">137</SimpleData>
+		<SimpleData name="popup">Playa Malv�n</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-56.107360223206,-34.8973497202216</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">138</SimpleData>
+		<SimpleData name="depto">MONTEVIDEO</SimpleData>
+		<SimpleData name="nombre">Playa del Buceo</SimpleData>
+		<SimpleData name="id">138</SimpleData>
+		<SimpleData name="popup">Playa del Buceo</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-56.1201868147274,-34.8998414564326</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">139</SimpleData>
+		<SimpleData name="depto">MONTEVIDEO</SimpleData>
+		<SimpleData name="nombre">Playa Verde</SimpleData>
+		<SimpleData name="id">139</SimpleData>
+		<SimpleData name="popup">Playa Verde</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-56.0752165711649,-34.8983944796888</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">140</SimpleData>
+		<SimpleData name="depto">CANELONES</SimpleData>
+		<SimpleData name="nombre">Barra de Carrasco</SimpleData>
+		<SimpleData name="id">140</SimpleData>
+		<SimpleData name="popup">Barra de Carrasco</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-56.0199204735426,-34.8762933663618</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">141</SimpleData>
+		<SimpleData name="depto">MONTEVIDEO</SimpleData>
+		<SimpleData name="nombre">Playa Pocitos</SimpleData>
+		<SimpleData name="id">141</SimpleData>
+		<SimpleData name="popup">Playa Pocitos</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-56.1444528660908,-34.9119560022112</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">142</SimpleData>
+		<SimpleData name="depto">MONTEVIDEO</SimpleData>
+		<SimpleData name="nombre">Playa La Estacada</SimpleData>
+		<SimpleData name="id">142</SimpleData>
+		<SimpleData name="popup">Playa La Estacada</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-56.1494913426774,-34.9217770410731</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">143</SimpleData>
+		<SimpleData name="depto">MONTEVIDEO</SimpleData>
+		<SimpleData name="nombre">Playa Ramirez</SimpleData>
+		<SimpleData name="id">143</SimpleData>
+		<SimpleData name="popup">Playa Ramirez</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-56.1705234766679,-34.9153245356804</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">144</SimpleData>
+		<SimpleData name="depto">MONTEVIDEO</SimpleData>
+		<SimpleData name="nombre">Playa del Cerro</SimpleData>
+		<SimpleData name="id">144</SimpleData>
+		<SimpleData name="popup">Playa del Cerro</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-56.2512769104834,-34.8961100791058</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">145</SimpleData>
+		<SimpleData name="depto">MONTEVIDEO</SimpleData>
+		<SimpleData name="nombre">Playa del Nacional</SimpleData>
+		<SimpleData name="id">145</SimpleData>
+		<SimpleData name="popup">Playa del Nacional</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-56.2696824995908,-34.898300322887</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">146</SimpleData>
+		<SimpleData name="depto">MONTEVIDEO</SimpleData>
+		<SimpleData name="nombre">Playa de la Sopa</SimpleData>
+		<SimpleData name="id">146</SimpleData>
+		<SimpleData name="popup">Playa de la Sopa</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-56.2814848500817,-34.8942899528379</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">147</SimpleData>
+		<SimpleData name="depto">MONTEVIDEO</SimpleData>
+		<SimpleData name="nombre">Playa de Santa Catalina</SimpleData>
+		<SimpleData name="id">147</SimpleData>
+		<SimpleData name="popup">Playa de Santa Catalina</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-56.2935646569622,-34.8939963875899</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">148</SimpleData>
+		<SimpleData name="depto">MONTEVIDEO</SimpleData>
+		<SimpleData name="nombre">Playa Punta Yeguas</SimpleData>
+		<SimpleData name="id">148</SimpleData>
+		<SimpleData name="popup">Playa Punta Yeguas</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-56.3028735836981,-34.8942516246702</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">149</SimpleData>
+		<SimpleData name="depto">MONTEVIDEO</SimpleData>
+		<SimpleData name="nombre">Playa Zabala</SimpleData>
+		<SimpleData name="id">149</SimpleData>
+		<SimpleData name="popup">Playa Zabala</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-56.3354992445096,-34.8740503153401</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">150</SimpleData>
+		<SimpleData name="depto">MONTEVIDEO</SimpleData>
+		<SimpleData name="nombre">Playa Pajas Blancas</SimpleData>
+		<SimpleData name="id">150</SimpleData>
+		<SimpleData name="popup">Playa Pajas Blancas</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-56.3411528874324,-34.8700279690408</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">151</SimpleData>
+		<SimpleData name="depto">MONTEVIDEO</SimpleData>
+		<SimpleData name="nombre">Playa La Colorada</SimpleData>
+		<SimpleData name="id">151</SimpleData>
+		<SimpleData name="popup">Playa La Colorada</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-56.3759265441516,-34.8580416168175</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">172</SimpleData>
+		<SimpleData name="depto">CANELONES</SimpleData>
+		<SimpleData name="nombre">Neptunia</SimpleData>
+		<SimpleData name="id">172</SimpleData>
+		<SimpleData name="popup">Neptunia</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-55.8583424249587,-34.7965145765091</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">173</SimpleData>
+		<SimpleData name="depto">MALDONADO</SimpleData>
+		<SimpleData name="nombre">Playa de la Barra</SimpleData>
+		<SimpleData name="id">173</SimpleData>
+		<SimpleData name="popup">Playa de la Barra</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-54.8583485214925,-34.9159297636843</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">174</SimpleData>
+		<SimpleData name="depto">MALDONADO</SimpleData>
+		<SimpleData name="nombre">Playa de la Boca</SimpleData>
+		<SimpleData name="id">174</SimpleData>
+		<SimpleData name="popup">Playa de la Boca</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-54.8626262922289,-34.9162330347303</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">175</SimpleData>
+		<SimpleData name="depto">MALDONADO</SimpleData>
+		<SimpleData name="nombre">Playa la Draga</SimpleData>
+		<SimpleData name="id">175</SimpleData>
+		<SimpleData name="popup">Playa la Draga</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-54.8803455541194,-34.9242524522109</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">176</SimpleData>
+		<SimpleData name="depto">MALDONADO</SimpleData>
+		<SimpleData name="nombre">Playa Chiverta</SimpleData>
+		<SimpleData name="id">176</SimpleData>
+		<SimpleData name="popup">Playa Chiverta</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-54.9190531073903,-34.9462407775174</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">177</SimpleData>
+		<SimpleData name="depto">MALDONADO</SimpleData>
+		<SimpleData name="nombre">Playa de los Ingleses</SimpleData>
+		<SimpleData name="id">177</SimpleData>
+		<SimpleData name="popup">Playa de los Ingleses</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-54.9463980880219,-34.9675239797657</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">178</SimpleData>
+		<SimpleData name="depto">MALDONADO</SimpleData>
+		<SimpleData name="nombre">Playa La Pastora</SimpleData>
+		<SimpleData name="id">178</SimpleData>
+		<SimpleData name="popup">Playa La Pastora</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-54.9414045139089,-34.948963637216</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">179</SimpleData>
+		<SimpleData name="depto">MALDONADO</SimpleData>
+		<SimpleData name="nombre">Playa I�marangat�</SimpleData>
+		<SimpleData name="id">179</SimpleData>
+		<SimpleData name="popup">Playa I�marangat�</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-54.9454538635384,-34.9437524679637</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">180</SimpleData>
+		<SimpleData name="depto">MALDONADO</SimpleData>
+		<SimpleData name="nombre">Playa Marconi</SimpleData>
+		<SimpleData name="id">180</SimpleData>
+		<SimpleData name="popup">Playa Marconi</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-54.9501337287092,-34.9395779112712</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">181</SimpleData>
+		<SimpleData name="depto">MALDONADO</SimpleData>
+		<SimpleData name="nombre">Playa El Grillo</SimpleData>
+		<SimpleData name="id">181</SimpleData>
+		<SimpleData name="popup">Playa El Grillo</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-54.9532828571906,-34.9362678591307</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">182</SimpleData>
+		<SimpleData name="depto">MALDONADO</SimpleData>
+		<SimpleData name="nombre">Playa Cantegril</SimpleData>
+		<SimpleData name="id">182</SimpleData>
+		<SimpleData name="popup">Playa Cantegril</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-54.9554089746892,-34.9342089385873</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">189</SimpleData>
+		<SimpleData name="depto">ROCHA</SimpleData>
+		<SimpleData name="nombre">Playa Anaconda</SimpleData>
+		<SimpleData name="id">189</SimpleData>
+		<SimpleData name="popup">Playa Anaconda</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-54.1889999533762,-34.6608552473328</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">190</SimpleData>
+		<SimpleData name="depto">ROCHA</SimpleData>
+		<SimpleData name="nombre">La Serena</SimpleData>
+		<SimpleData name="id">190</SimpleData>
+		<SimpleData name="popup">La Serena</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-54.1967585919361,-34.6608588215278</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">234</SimpleData>
+		<SimpleData name="depto">MALDONADO</SimpleData>
+		<SimpleData name="nombre">Playa de la Gruta</SimpleData>
+		<SimpleData name="id">234</SimpleData>
+		<SimpleData name="popup">Playa de la Gruta</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-55.0315969911695,-34.9096707918922</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="gid">237</SimpleData>
+		<SimpleData name="depto">ROCHA</SimpleData>
+		<SimpleData name="nombre">Playa Fabeiro</SimpleData>
+		<SimpleData name="id">237</SimpleData>
+		<SimpleData name="popup">Playa Fabeiro</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-53.5597743667774,-34.0711607236043</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
